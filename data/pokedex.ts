@@ -20738,6 +20738,17 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Ramnarok",
 		gen: 9,
 	},
+	criscarab: {
+		num: -100,
+		name: "Criscarab",
+		types: ["Bug", "Rock"],
+		baseStats: { hp: 85, atk: 55, def: 135, spa: 85, spd: 105, spe: 40 },
+		abilities: { 0: "Clear Body"},
+		heightm: 1.4,
+		weightkg: 200,
+		color: "Brown",
+		eggGroups: ["Bug"],
+	},
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
 	pokestarsmeargle: {
 		num: -5000,
