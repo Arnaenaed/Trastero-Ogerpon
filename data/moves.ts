@@ -11681,7 +11681,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	},
 	metalclaw: {
 		num: 232,
-		accuracy: 95,
+		accuracy: 100,
 		basePower: 50,
 		category: "Physical",
 		name: "Metal Claw",
