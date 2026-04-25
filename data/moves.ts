@@ -18101,7 +18101,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 	},
 	stoneedge: {
 		num: 444,
-		accuracy: 80,
+		accuracy: 100,
 		basePower: 100,
 		category: "Physical",
 		name: "Stone Edge",
